@@ -38,7 +38,7 @@ Untuk membuat salinan lokal dan menjalankannya, ikuti langkah-langkah sederhana 
 
 1.  **Clone repositori:**
     ```bash
-    git clone https://github.com/username-anda/flutter-pokedex-sederhana.git
+    git clone https://github.com/aji2111/pokedex-simple.git
     ```
 
 2.  **Navigasi ke direktori proyek:**
